@@ -9,7 +9,8 @@ int main(int argc, char const *argv[])
     cout << " ingrese su nombre:  ";
     cin >> nombre;
 
-    cout <<"\n Hola mi nombre es " << nombre;
+    cout <<"\n Hola mi nombre es " << nombre <<endl;
+    cout << " Hola "<<nombre<<" Bienvenido a la Clase de Lenguaje de Programacion I "<< endl;
     
     return 0;
 }
