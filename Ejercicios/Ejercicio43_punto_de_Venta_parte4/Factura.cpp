@@ -37,6 +37,6 @@ void imprimirFactura()
 	cout <<" Monto de descuento es :  "<<Calculo_Descuento<< endl;
 	cout <<" Valor Impuesto es     :  "<< Monto_impuesto << endl;
 	cout <<" Total a pagar es      :  "<< total << endl;
-	
+	cout<<endl;
 	system("Pause");
 }
