@@ -1,0 +1,2 @@
+void Productos(int opcion);
+
