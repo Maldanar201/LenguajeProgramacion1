@@ -8,7 +8,7 @@ int main(int argc, char** argv)
 {
 	while(true)
 	{
-		
+		system("cls");
 		cout << "                           $$$$$$$$$$$$$$$$$$$$$$$$$$ "<< endl;
 		cout << "                           $$                      $$ "<< endl;	
 		cout << "                           $$ # APUESTA DE DADOS # $$ "<< endl;
@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 		cout << "                            $$ Ganas con 7 y 11 $$ "<<endl;
 		cout << "                          XX Pierdes con 2 , 3 y 12 XX"<<endl;
 		cout <<endl;
-		cout << "             Preciona cualquier tecla para lanzar, Precione 0 para salir ";
+		cout << "                Preciona  tecla 1 para lanzar, Precione 0 para salir ";
 		cin >> inicio;
 		
 		//inicializa el numero randon
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 		break;
 		
 		system("pause");
-		system("cls");
+		
 				
 	}
 	return 0;
