@@ -1,0 +1,4 @@
+codigo,nombre_Documento,Fecha_Caducidad,Fecha_iniciarTramite,Estado
+02,icencia ambiental,c://prueba proyecto,27/06/2022,21/04/2022, ¡¡¡ Alerta Realice Nuevo Tramite !!! 
+,ermiso de construccion,c://permisos,21/12/2023,15/11/2023, ++ OK ++ 
+,erforacion de pozo,c://permisos,21/01/2022,15/11/2021, *** Documento Caducado *** 
